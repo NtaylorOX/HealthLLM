@@ -9,3 +9,5 @@ Paper is available on https://arxiv.org/abs/2402.00746
 
 ### Train the model
   -  `python compute_health_score.py`
+
+### Cite the paper
