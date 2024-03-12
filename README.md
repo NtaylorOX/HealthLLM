@@ -11,3 +11,11 @@ Paper is available on https://arxiv.org/abs/2402.00746
   -  `python compute_health_score.py`
 
 ### Cite the paper
+@misc{jin2024healthllm,
+      title={Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model}, 
+      author={Mingyu Jin and Qinkai Yu and Chong Zhang and Dong Shu and Suiyuan Zhu and Mengnan Du and Yongfeng Zhang and Yanda Meng},
+      year={2024},
+      eprint={2402.00746},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
