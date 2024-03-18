@@ -14,8 +14,8 @@ Paper is available on https://arxiv.org/abs/2402.00746
 You are encouraged to cite the following paper for academic research.
 ```
 @misc{jin2024healthllm,
-      title={Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model}, 
-      author={Mingyu Jin and Qinkai Yu and Chong Zhang and Dong Shu and Suiyuan Zhu and Mengnan Du and Yongfeng Zhang and Yanda Meng},
+      title={Health-LLM: Personalized Retrieval-Augmented Disease Prediction System}, 
+      author={Mingyu Jin and Qinkai Yu and Dong Shu and Chong Zhang and Suiyuan Zhu and Mengnan Du and Yanda Meng and Yongfeng Zhang},
       year={2024},
       eprint={2402.00746},
       archivePrefix={arXiv},
