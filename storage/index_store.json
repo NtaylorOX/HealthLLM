@@ -1,0 +1,1 @@
+{"index_store/data": {"index_health": {"__type__": "vector_store", "__data__": "{\"index_id\": \"index_health\", \"summary\": null, \"nodes_dict\": {\"04bcd2ed-2c3d-4961-85e7-77d95f835ebf\": \"04bcd2ed-2c3d-4961-85e7-77d95f835ebf\"}, \"doc_id_dict\": {}, \"embeddings_dict\": {}}"}}}

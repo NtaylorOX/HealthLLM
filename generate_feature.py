@@ -41,8 +41,8 @@ def generate_feature(path):
 
 
 if __name__ == '__main__':
-    OPENAI_API_KEY = "Your API"
-    path = '/Users/chongzhang/PycharmProjects/ai_for_health_final/label and feature/output_target.txt'
+    OPENAI_API_KEY = "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"
+    path = './label_and_feature_output_target.txt'
     question = generate_feature(path)
     # with open("/Users/jmy/Desktop/ai_for_health_final/training/feature.txt", "w") as file:
     #     for item in question:

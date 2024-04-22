@@ -46,7 +46,7 @@ class HopfieldRetrievalModel(nn.Module):
 
 
 def read_external_knowledge(path):
-    path = '/Users/jmy/Desktop/ai_for_health_final/exsit_knowledge/my_dict.pkl'
+    path = './exsit_knowledge/my_dict.pkl'
     with open(path, 'rb') as file:
         loaded_data = pickle.load(file)
     paragraph = []
@@ -104,7 +104,8 @@ def retrieval_info(reports, path, k):
 
 if __name__ == '__main__':
     reports = read_reports(
-        '/Users/chongzhang/PycharmProjects/ai_for_health_final/dataset_folder/health_report_{243}')  # 13452
-    know = retrieval_info(reports, '/Users/chongzhang/PycharmProjects/ai_for_health_final/', 3)
+        './dataset_folder/health_report_{43}')  # 13452
+    print(f"Report was: {reports}")
+    know = retrieval_info(reports, './', 3)
     for i in know:
         print(i)
